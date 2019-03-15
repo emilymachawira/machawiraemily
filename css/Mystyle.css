@@ -1,0 +1,11 @@
+body{
+			background-image: :url(cat.jpg);
+	        background-size: contain;
+	        background-repeat: no-repeat; 
+
+}
+.heading{
+	color: purple;
+	text-align: center;
+
+}
